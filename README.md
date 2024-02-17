@@ -8,7 +8,12 @@ Create a Video Player application using React.js to allow users to play videos f
 Before running the app, make sure you install node js in your machine.
 1. Clone the repository.
 2. In your cloned project directory open a terminal and Install dependencies using `npm install` command.
-4. Start the developement server using `npm start` command in within the same directory.
+3. Start the developement server using `npm start` command in within the same directory.
+
+## App URL's
+
+1. [Live URL](https://rigivideoplayer.netlify.app/)
+2. [GitHub Link](https://github.com/ShalemSamRaj/Rigi-Player)
 
 ## Requirements
 1. **Video Player Component:**
